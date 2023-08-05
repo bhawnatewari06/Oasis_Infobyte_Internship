@@ -1,0 +1,23 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .bg-wheat {
+    background-color: wheat;
+  }
+  
+  .mx-auto {
+    margin: auto border: 2px solid black;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
